@@ -14,7 +14,6 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
 
 ---
 
-
 <p align="center">
    <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_1.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_2.jpg" width="45%" />
@@ -24,7 +23,7 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
 
 ---
 
-## 📄 Dokumentasi Aplikasi
+## 📄 Dokumentasi demo Aplikasi
 
 🌐 [Video dokumentasi](https://drive.google.com/drive/folders/10wDxOCgviXdzEUdsz0UeK-80Ej-_PiUI?usp=drive_link)
 
