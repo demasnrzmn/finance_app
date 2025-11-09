@@ -28,9 +28,8 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="docs/Screenshot_20251108-202853.jpg" width="45%" />
-  <img src="docs/Screenshot_20251108-202903.jpg" width="45%" />
-  <img src="docs/Screenshot 2025-11-08 211421.png" width="45%" />
+  <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_1.jpg" width="45%" />
+  <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_2.jpg" width="45%" />
 </p>
 
 ---
