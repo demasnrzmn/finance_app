@@ -22,9 +22,9 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20berhasil.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20tidak%20sesuai%20top%20up.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/tf%20dana.jpg" width="45%" />
-  <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif.jpg" width="45%" />
+   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20tf.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20nominal%20kurang.jpg" width="45%" />
- <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20tf.jpg" width="45%" />
+  <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif.jpg" width="45%" />
       
   <p/>
 
