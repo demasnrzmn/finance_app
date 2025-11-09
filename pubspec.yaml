@@ -1,0 +1,25 @@
+name: finance_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.9.2 <4.0.0' # Perbaiki format versi SDK
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Tambahkan package lain di sini jika ada, contoh: cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  
+
+flutter:
+  uses-material-design: true
+  
+  # Bagian 'assets' harus berada di bawah 'flutter:' dan di-indentasi dengan 2 spasi
+  assets:
+    - assets/images/demzbank_card.png
