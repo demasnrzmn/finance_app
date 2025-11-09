@@ -1,6 +1,6 @@
 # 💰 Finnance App
 
-Aplikasi ini dibuat untuk memenuhi  satu tugas  matakuliah Pemrograman Mobile 2
+Aplikasi ini dibuat untuk memenuhi tugas matakuliah Pemrograman Mobile 2
 
 ---
 
@@ -10,7 +10,6 @@ Aplikasi ini dibuat untuk memenuhi  satu tugas  matakuliah Pemrograman Mobile 2
 <p align="center">
   <img src="# 💰 Finnance App
 
-Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman Mobile
 
 ---
 
