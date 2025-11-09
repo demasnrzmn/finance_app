@@ -37,7 +37,7 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
 ## 📄 Dokumentasi Aplikasi
 
 📁 [PDF Laporan](docs/ScreenshotFull.pdf)  
-🌐 [Video dokumentasi](https://drive.google.com/file/d/1HQq_5H58tJtZbnwAefeAHNFZgBAHJMa_/view?usp=drive_link)
+🌐 [Video dokumentasi](https://drive.google.com/drive/folders/10wDxOCgviXdzEUdsz0UeK-80Ej-_PiUI?usp=drive_link)
 
 
 ---
