@@ -19,8 +19,6 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_2.jpg" width="45%" />
   <p/>
 
-Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman Mobile
-
 ---
 
 ## 📄 Dokumentasi demo Aplikasi
