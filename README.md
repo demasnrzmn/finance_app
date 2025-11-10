@@ -24,6 +24,7 @@ Aplikasi ini dibuat untuk memenuhi tugas matakuliah Pemrograman Mobile 2
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/tf%20dana.jpg" width="45%" />
    <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20tf.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif%20nominal%20kurang.jpg" width="45%" />
+  <img src="" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/notif.jpg" width="45%" />
       
   <p/>
