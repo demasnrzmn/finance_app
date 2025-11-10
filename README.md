@@ -14,6 +14,7 @@ Aplikasi ini dibuat untuk memenuhi tugas matakuliah Pemrograman Mobile 2
 ---
 
 <p align="center">
+  <img src="" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_1.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/home_2.jpg" width="45%" />
   <img src="https://github.com/demasnrzmn/finance_app/blob/main/assets/images/all%20card.jpg" width="45%" />
